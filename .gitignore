@@ -11,3 +11,4 @@ pom.xml.asc
 .hg/
 *.swp
 resources/public/js
+figwheel_server.log
